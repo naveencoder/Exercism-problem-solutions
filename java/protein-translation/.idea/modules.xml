@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/protein-translation.iml" filepath="$PROJECT_DIR$/protein-translation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/protein-translation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/protein-translation_main.iml" group="protein-translation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/protein-translation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/protein-translation_test.iml" group="protein-translation" />
+    </modules>
+  </component>
+</project>

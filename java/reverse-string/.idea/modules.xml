@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reverse-string.iml" filepath="$PROJECT_DIR$/reverse-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reverse-string_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reverse-string_main.iml" group="reverse-string" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reverse-string_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reverse-string_test.iml" group="reverse-string" />
+    </modules>
+  </component>
+</project>
